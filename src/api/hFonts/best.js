@@ -7,7 +7,6 @@ module.exports = async (request) => {
 
   let limit = request.limit || 10;
   let tags = request.tags || "";
-  tags = tags.replaceAll(' ','+')
   let quality = request.quality || 10;
   if (limit == "" || limit == 0) {
     limit = 10;
