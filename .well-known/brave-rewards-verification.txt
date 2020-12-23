@@ -1,0 +1,4 @@
+This is a Brave Rewards publisher verification file.
+
+Domain: vitaodelicia.herokuapp.com
+Token: 7b967ca417b801e0d619425fe1717c3361ce32b70b66690bcc2007de912aa600
